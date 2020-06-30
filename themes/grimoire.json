@@ -1,0 +1,251 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"background": "#24222E",
+				"foreground": "#EAE6F2"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#757180"
+			}
+		},
+		{
+			"name": "Foreground",
+			"scope": [
+				"keyword.operator.class",
+				"constant.other",
+				"source.php.embedded.line"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#B7B3C7"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable.other.property",
+			"settings": {
+				"foreground": "#E36687"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#F8786B"
+			}
+		},
+		{
+			"name": "Functions",
+			"scope": [
+				"meta.require",
+				"support.function.any-method",
+				"entity.name.function"
+			],
+			"settings": {
+				"foreground": "#70B7E6"
+			}
+		},
+		{
+			"name": "Tags",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#E36687"
+			}
+		},
+		{
+			"name": "Methods",
+			"scope": "keyword.other.special-method",
+			"settings": {
+				"foreground": "#70B7E6"
+			}
+		},
+		{
+			"name": "Numbers",
+			"scope": [
+				"constant.numeric",
+				"keyword.other.unit",
+				"constant",
+				"markup.quote",
+				"meta.link"
+			],
+			"settings": {
+				"foreground": "#F8786B"
+			}
+		},
+		{
+			"name": "Selector",
+			"scope": "meta.selector",
+			"settings": {
+				"foreground": "#E36687"
+			}
+		},
+		{
+			"name": "Colors",
+			"scope": "constant.other.color",
+			"settings": {
+				"foreground": "#F8786B"
+			}
+		},
+		{
+			"name": "Attributes",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#F0AD64"
+			}
+		},
+		{
+			"name": "Strings, Inherited Class",
+			"scope": [
+				"string",
+				"constant.other.symbol",
+				"entity.other.inherited-class"
+			],
+			"settings": {
+				"foreground": "#62CCA0"
+			}
+		},
+		{
+			"name": "Attribute ID",
+			"scope": [
+				"entity.other.attribute-name.id",
+				"entity.other.attribute-name.id.css punctuation.definition.entity.css"
+			],
+			"settings": {
+				"foreground": "#62CCA0"
+			}
+		},
+		{
+			"name": "Constants",
+			"scope": "constant",
+			"settings": {
+				"foreground": "#E36687"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"foreground": "#F0AD64"
+			}
+		},
+		{
+			"name": "Support",
+			"scope": "support",
+			"settings": {
+				"foreground": "#70B7E6"
+			}
+		},
+		{
+			"name": "Operators",
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#F8786B"
+			}
+		},
+		{
+			"name": "Python: Logical Keyword",
+			"scope": "keyword.operator.logical",
+			"settings": {
+				"foreground": "#F8786B"
+			}
+		},
+		{
+			"name": "Python: Function Call Parameter Name",
+			"scope": "source.python meta.function-call.python",
+			"settings": {
+				"foreground": "#70B7E6"
+			}
+		},
+		{
+			"name": "Python: Argument Brackets",
+			"scope": [
+				"meta.function-call.python punctuation.definition.arguments.end.python",
+				"meta.function-call.python punctuation.definition.arguments.begin.python"
+			],
+			"settings": {
+				"foreground": "#EAE6F2"
+			}
+		},
+		{
+			"name": "Python: Function Type",
+			"scope": "meta.function.python storage.type.function.python",
+			"settings": {
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "Python: Self",
+			"scope": "variable.language.python",
+			"settings": {
+				"fontStyle": " italic"
+			}
+		},
+		{
+			"name": "Python: Function Call Arguments",
+			"scope": "meta.function-call.python meta.function-call.arguments.python",
+			"settings": {
+				"foreground": "#EAE6F2"
+			}
+		},
+		{
+			"name": "Classes",
+			"scope": [
+				"support.class",
+				"entity.name.class",
+				"entity.name.type.class"
+			],
+			"settings": {
+				"foreground": "#F0AD64"
+			}
+		},
+		{
+			"name": "Classes",
+			"scope": "meta.class",
+			"settings": {
+				"foreground": "#EAE6F2"
+			}
+		},
+		{
+			"name": "CSS: Property Name",
+			"scope": "meta.property-name.css support.type.property-name.css",
+			"settings": {
+				"foreground": "#EAE6F2"
+			}
+		},
+		{
+			"name": "JS: Method Call Argument",
+			"scope": "variable.language.arguments",
+			"settings": {
+				"foreground": "",
+				"fontStyle": " italic"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#24222E",
+		"editor.foreground": "#EAE6F2",
+		"editorWhitespace.foreground": "#46434F",
+		"editorWhitespace.activeForeground": "#ffffff",
+		"editor.lineHighlightBackground": "#35313f",
+		"editorLineNumber.foreground": "#757180",
+		"editorCursor.foreground": "#dcdae0",
+		"editor.selectionBackground": "#46434f",
+		"foreground": "#EAE6F2",
+		"titleBar.activeBackground": "#24222E",
+		"titleBar.inactiveBackground": "#22202C",
+		"sideBar.background": "#1D1B25",
+		"activityBar.background": "#24222E",
+		"statusBar.background": "#24222E",
+		"statusBar.debuggingBackground": "#24222E",
+		"statusBar.debuggingForeground": "#9e0530",
+		"statusBar.noFolderBackground": "#24222E",
+		"statusBar.noFolderBorder": "#15141B",
+		"editorGroupHeader.tabsBackground": "#2e2b38"
+	},
+	"name": "Grimoire"
+}
