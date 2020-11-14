@@ -2,9 +2,9 @@
     "name": "grimoire",
     "displayName": "Grimoire",
     "description": "Grimoire is a take on many themes with vibrant colors without sacrificing readability and reducing strain during those late hours, with a touch of magic.🔮",
-    "version": "0.0.2",
-    "publisher": "nathan-edwards",
-    "icon": "https://raw.githubusercontent.com/nathan-edwards/grimoire/master/images/logo.png",
+    "version": "0.0.2.1",
+    "publisher": "NathanEdwards",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.46.0"
     },
