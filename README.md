@@ -1,17 +1,20 @@
-<img src="images/logo.png"
-     alt="Markdown Monster icon"
-     style="display:block; margin-right: auto; margin-left: auto; width: 50%" />
+# Grimoire Theme 🌙
+[![Version](https://vsmarketplacebadge.apphb.com/version/NathanEdwards.grimoire.svg)](https://marketplace.visualstudio.com/items?itemName=NathanEdwards.grimoire)
 
-# <p style="text-align: center;"> Grimoire Theme </p>
-<p style="text-align: center;">Grimoire is a light (WIP) & dark take on many themes with <b>vibrant colors</b> without sacrificing <b>readability</b>.</p>
+Grimoire is a take on many themes with vibrant colors without sacrificing readability and reducing strain during those late hours, with a touch of magic. 🔮
 
-<img src="images/grimoire-dark.png"
-     alt="Markdown Monster icon"
-     style="display:block; margin-right: auto; margin-left: auto;" />
+## Grimoire Shadow
+![Screenshot](https://raw.githubusercontent.com/nathan-edwards/grimoire/master/images/ss_dark.png)
 
 # Instalation
-Grimoire can be found in the Visual Studio Code Extension Marketplace. Press Ctrl + Shift + X on Windows and Linux or ⇧ + ⌘ + X on Mac and then searching for "Grimoire".
-<br><br>
+
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `grimoire`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **Grimoire**
 
 # Credits
 Inspired by [Noctis](https://github.com/liviuschera/noctis), [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax), [Material Theme](https://github.com/material-theme/vsc-material-theme), [Monokai Pro](https://monokai.pro/), [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode), and several others.

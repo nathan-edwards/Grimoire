@@ -10,3 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2020-06-30
 ### Added
 - Initial release
+
+## [0.0.2] - 2020-11-14
+### Added
+- Sectioned and organised color ids
+- More color ids
+
+### Changed
+- Color scheme to be more purple

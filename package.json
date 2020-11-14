@@ -1,16 +1,23 @@
 {
     "name": "grimoire",
     "displayName": "Grimoire",
-    "description": "Grimoire is a light & dark theme balancing vivid colors with readability",
-    "version": "0.0.1",
+    "description": "Grimoire is a take on many themes with vibrant colors without sacrificing readability and reducing strain during those late hours, with a touch of magic.🔮",
+    "version": "0.0.2",
     "publisher": "nathan-edwards",
-    "icon": "./images/logo.png",
+    "icon": "https://raw.githubusercontent.com/nathan-edwards/grimoire/master/images/logo.png",
     "engines": {
         "vscode": "^1.46.0"
     },
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#3F3B52",
+        "theme": "dark"
+    },
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/nathan-edwards/grimoire"
@@ -18,7 +25,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Grimoire",
+                "label": "Grimoire Shadow",
                 "uiTheme": "vs-dark",
                 "path": "./themes/grimoire.json"
             }
