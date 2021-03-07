@@ -2,7 +2,7 @@
     "name": "grimoire",
     "displayName": "Grimoire",
     "description": "Grimoire is a take on many themes with vibrant colors without sacrificing readability and reducing strain during those late hours, with a touch of magic.🔮",
-    "version": "0.0.2.1",
+    "version": "0.1.0",
     "publisher": "NathanEdwards",
     "icon": "images/logo.png",
     "engines": {
@@ -28,6 +28,11 @@
                 "label": "Grimoire Shadow",
                 "uiTheme": "vs-dark",
                 "path": "./themes/grimoire.json"
+            },
+            {
+                "label": "Grimoire Nox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grimoire-nox.json"
             }
         ]
     }

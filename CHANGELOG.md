@@ -18,3 +18,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Color scheme to be more purple
+
+## [0.1.0]
+### Added
+- Nox (Black) theme variant added
+
+### Changed
+- Terminal font colours opted for soft neon colours
+- Notifications now in colour scheme
